@@ -1,0 +1,5 @@
+It was a dark and stormy night.
+
+Sudo rm -rf c:
+
+System.out.println("Hello, World.");
